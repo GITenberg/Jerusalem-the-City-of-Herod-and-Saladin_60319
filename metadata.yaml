@@ -1,0 +1,44 @@
+_repo: Jerusalem-the-City-of-Herod-and-Saladin_60319
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Palmer, Edward Henry
+    alias: Palmer, E. H. (Edward Henry)
+    birthdate: 1840
+    deathdate: 1882
+    gutenberg_agent_id: '50897'
+    url: http://www.gutenberg.org/2009/agents/50897
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Henry_Palmer
+  - agent_name: Besant, Walter
+    aliases:
+    - Maurice, Walter
+    - Besant, Sir Walter
+    birthdate: 1836
+    deathdate: 1901
+    gutenberg_agent_id: '5404'
+    url: http://www.gutenberg.org/2009/agents/5404
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
+description: ''
+gutenberg_issued: '2019-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60319'
+  lccn: '10028365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jerusalem -- History'
+- !lcsh 'Jerusalem -- Description and travel'
+- !lcc 'DS'
+- GITenberg
+tableOfContents: Introductory -- The siege of Jerusalem -- From Titus to Omar -- The
+  Mohammedan conquest -- The Christian pilgrims -- The first Crusade -- King Godfrey
+  -- King Baldwin I. -- King Baldwin II. -- King Fulke -- King Baldwin III. and the
+  second Crusade -- King Amaury -- King Baldwin the leper -- King Guy de Lusignan
+  -- Richard Coeur de Lion and the third Crusade -- Saladin -- The Mohammedan pilgrims
+  -- The chronicle of six hundred years -- Modern Jerusalem -- On the position of
+  the sacred sites.
+title: Jerusalem, the City of Herod and Saladin
+url: http://www.gutenberg.org/ebooks/60319
