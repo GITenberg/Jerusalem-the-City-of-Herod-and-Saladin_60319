@@ -1,5 +1,8 @@
 _repo: Jerusalem-the-City-of-Herod-and-Saladin_60319
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60319-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Palmer, Edward Henry
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5404
     wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60319#Jerusalem-the-City-of-Herod-and-Saladin
 gutenberg_issued: '2019-09-19'
 gutenberg_type: Text
 identifiers:
